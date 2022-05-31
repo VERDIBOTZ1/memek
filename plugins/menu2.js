@@ -199,7 +199,7 @@ ${'```%npmdesc```'}
 			         templateMessage: {
              hydratedTemplate: {
                  hydratedContentText: text.trim(),
-                 hydratedFooterText: 'Made By Johannes\nMy Guru',
+                 hydratedFooterText: 'Made By verdi\nMy Guru',
                  "headerType": "DOCUMENT", 
                  "documentMessage": {
             "url": "https://mmg.whatsapp.net/d/f/Ah9LXq1Z_XnRLzlVnZSt6_yWxC6mp20xTpZRSJxc7TUP.enc",
@@ -217,14 +217,14 @@ ${'```%npmdesc```'}
                  hydratedButtons: [{
                      urlButton: {
                          displayText: 'MY WEB',
-               url: 'https://youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng'
+               url: 'https://youtube.com/channel/UC3zScvuQfMxqiTC5'
              }
 
            },
              {
              urlButton: {
                displayText: 'MY GROUP',
-               url: 'https://chat.whatsapp.com/GngfXIF8XmgHf9Gm7MQFps'
+               url: 'https://chat.whatsapp.com'
              }
 
            },
@@ -465,14 +465,14 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedButtons: [{
              urlButton: {
                displayText: 'My Github',
-               url: 'https://github.com/NevtBotz'
+               url: 'https://github.com/VERDIBOTZ1'
              }
 
            },
              {
              urlButton: {
                displayText: 'Wibesibe',
-               url: 'https://NevtBotz.github.io'
+               url: 'https://VERDIBOTZ1.github.io'
              }
 
            },
